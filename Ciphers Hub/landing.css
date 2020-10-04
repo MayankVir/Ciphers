@@ -1,0 +1,443 @@
+
+body{
+  margin: 0;
+}
+
+.team_heading {
+  margin: 0;
+  font-weight: bold;
+  font-size: 3em;
+}
+
+.navbar-nav {
+  margin-right: 4%;
+}
+.nav-item {
+  padding: 0 25px;
+  font-size: 1.1em;
+  font-family: 'Montserrat', sans-serif;
+  font-weight: bold;
+}
+
+.left_logo{
+  padding-left: 25px;
+}
+
+.top_container {
+  display: block;
+  background-color: #204051;
+  width: 100%;
+  height: 700px;
+}
+
+.carousel-item {
+  padding: 7% 10%;
+}
+
+.fa-check {
+  display: inline;
+  color: #fff;
+
+}
+
+.c1 {
+  margin-top: 135px;
+  /* margin-left: 40px; */
+}
+.c1, .c2, .c3, .c4 {
+  font-family: 'Montserrat', sans-serif;
+  color: white;
+  font-size: 1.2em;
+}
+
+.c-price {
+  font-family: 'Montserrat', sans-serif;
+  color: white;
+  }
+
+.c-1 {
+  margin-top: 60px;
+  margin-left: 350px;
+}
+.c-6 {
+  margin-left: 350px;
+}
+
+.cpp1 {
+  margin-top: 125px;
+  /* margin-left: 100px; */
+}
+.cpp1, .cpp2, .cpp3, .cpp4  {
+   font-family: 'Montserrat', sans-serif;
+   color: white;
+   font-size: 1.2em;
+}
+.cpp-price {
+  font-family: 'Montserrat', sans-serif;
+  color: white;
+  }
+
+.cpp-1 {
+  margin-top: 60px;
+  margin-left: 350px;
+}
+.cpp-6 {
+  margin-left: 350px;
+}
+
+.p1 {
+  margin-top: 135px;
+  /* margin-left: 40px; */
+}
+.p1, .p2, .p3, .p4 {
+  font-family: 'Montserrat', sans-serif;
+  color: white;
+  font-size: 1.15em;
+}
+
+.p-price {
+  font-family: 'Montserrat', sans-serif;
+  color: white;
+  }
+
+.p-1 {
+  margin-top: 60px;
+  margin-left: 350px;
+}
+.p-6 {
+  margin-left: 353px;
+}
+
+
+.i1 {
+  margin-top: 110px;
+  /* margin-left: 40px; */
+}
+.i1, .i2, .i3, .i4 {
+  font-family: 'Montserrat', sans-serif;
+  color: white;
+  font-size: 1.15em;
+}
+
+.i-price {
+  font-family: 'Montserrat', sans-serif;
+  color: white;
+  }
+
+.i-1 {
+  margin-top: 80px;
+  margin-left: 400px;
+}
+.i-6 {
+  margin-left: 400px;
+}
+
+
+.item-cpp, .item-iot {
+  padding-bottom: 105px;
+}
+
+ .item-python {
+  padding-bottom: 98px;
+}
+
+.c-prog{
+  width: 250px;
+  text-align: left;
+  margin: 70px 40px 0 60px;
+  float: left;
+}
+
+ .cpp-prog{
+  width: 190px;
+  margin: 80px 70px 0 90px;
+  float: left;
+ }
+
+ .iot-prog{
+  width: 260px;
+  margin: 80px 50px 0 90px;
+  float: left;
+ }
+
+ .python-prog{
+  width: 280px;
+  border-radius: 100%;
+  margin: 60px 0 0 70px;
+  float: left;
+ }
+
+ .c-programming-heading, .cpp-programming-heading, .iot-programming-heading  {
+   font-family: 'Montserrat', sans-serif;
+   color: white;
+   font-size: 4em;
+   text-align: center;
+ }
+
+ .python-programming-heading {
+   font-family: 'Montserrat', sans-serif;
+   color: white;
+   font-size: 3.75em;
+   text-align: center;
+ }
+
+
+/* Courses Container */
+.middle_container {
+  background-color: #434e52;
+  width: 100%;
+  height: 800px;
+}
+
+.courses {
+  margin: 0;
+  text-align: center;
+  font-size: 35px;
+  color: #fefefe;
+  letter-spacing: 5px;
+  padding-top: 30px;
+  font-family: 'Spartan', sans-serif;
+  font-weight: bold;
+}
+
+.c-course {
+  margin: 25px 0 0 230px;
+  display: inline-block;
+}
+.c-course-logo {
+  width: 240px;
+}
+
+.cpp-course {
+  margin: 50px 50px 0 400px;
+  display: inline-block;
+
+}
+.cpp-course-logo {
+  width: 200px;
+}
+
+.python-course {
+  margin: 80px 0 0 212px;
+  display: inline-block;
+}
+.python-course-logo {
+  width: 260px;
+}
+
+.iot-course {
+  margin: 70px 50px 0 400px;
+  display: inline-block;
+
+}
+
+.iot-course-logo {
+  width: 230px;
+}
+
+
+
+/* Team Container */
+.bottom_container {
+  background-color: #f1f3f4;
+  width: 100%;
+  height: 950px;
+  margin: 0;
+}
+
+/* @media (min-width) */
+
+.bottom_container_team_heading{
+  margin: 0;
+
+  text-align: center;
+
+  color: #1b262c;
+  letter-spacing: 5px;
+  padding-top: 35px;
+  font-family: 'Spartan', sans-serif;
+}
+
+
+ .row {
+   padding-top: 80px;
+   background-color: #f1f3f4;
+   text-align: center;
+}
+
+.akshat {
+  width: 230px;
+  /* height: 200px; */
+  border-radius: 50%;
+}
+
+.mohit {
+  width: 200px;
+  border-radius: 50%;
+}
+
+.shreya {
+  width: 230px;
+  border-radius: 50%;
+}
+.simran {
+  width: 220px;
+  border-radius: 50%;
+}
+
+.mayank {
+  width: 250px;
+  border-radius: 50%;
+}
+
+.akshat-h4, .mohit-h4, .simran-h4, .shreya-h4, .mayank-h4{
+font-family: 'Raleway', sans-serif;
+font-weight: bold;
+padding-top: 20px;
+}
+
+.akshat-h5, .mohit-h5, .simran-h5, .shreya-h5, .mayank-h5{
+font-family: 'Nunito', sans-serif;
+font-weight: lighter;
+}
+
+.m4, .m5 {
+  padding-top: 70px;
+}
+
+
+
+/* Contact Container */
+.contact_us_container {
+  background-color: #512B58;
+  width: 100%;
+  height: 215px;
+  margin: 0 auto;
+  display: inline-block;
+}
+
+.contact_us_heading {
+  text-align: center;
+  font-size: 23px;
+  padding: 30px 30px 15px 30px;
+  margin-bottom: 0;
+  color: #fefefe;
+  letter-spacing: 3px;
+  font-family: 'Spartan', sans-serif;
+}
+
+.copyright {
+  margin: 0 auto;
+  font-size: 12px;
+  padding-top: 15px;
+  text-align: center;
+  color: #fefefe;
+  font-family: 'Spartan', sans-serif;
+}
+
+ .privacypolicy {
+   margin: 0 auto;
+   font-size: 11px;
+   padding-top: 3px;
+   text-align: center;
+   color: #fefefe;
+   font-family: 'Spartan', sans-serif;
+ }
+
+ .tos_link {
+   margin-left: 10px;
+   color: #fefefe;
+ }
+ .privacy_link {
+   margin-right: 10px;
+   color: #fefefe;
+ }
+
+ .tos_link:hover{
+   color: #d3d3d3;
+   text-decoration: none;
+   }
+
+ .privacy_link:hover{
+   color: #d3d3d3;
+   text-decoration: none;
+ }
+
+ .circle-button {
+     font-family: 'Roboto', sans-serif;
+     color: #ccc;
+     display: inline-block;
+     font-size: 1.85rem;
+     border-radius: 50%;
+     transition: all 0.2s ease;
+ }
+
+ .to-insta:hover{
+   background: #E5393F;
+   color: #fff;
+   /* width: 100px; */
+ }
+
+ .to-twitter:hover{
+   background: #1DA1F3;
+   color: #fff;
+ }
+
+ .to-facebook:hover{
+   background: #3B5998;
+   color: #fff;
+ }
+
+ .to-linkedin:hover{
+   background: #0077B5;
+   color: #fff;
+ }
+
+ .to-github:hover{
+   background: #FF4500;
+   color: #fff;
+ }
+
+ .icon-outer-container{
+  margin: 0 459px 0 490px;
+  width: 400px;
+ }
+
+ @keyframes circle-anim{
+     0% {
+
+     }
+
+     90%{
+         padding: 0.35em;
+         margin: -0.35em;
+     }
+
+     100%{
+         padding: 0.25em;
+         margin: -0.25em;
+     }
+ }
+
+
+
+ /* Hovers */
+ a:hover{
+   color: #d1cebd;
+   text-decoration: none;
+ }
+ a{
+   color: #fefefe;
+   text-decoration: none;
+ }
+
+ .circle-button:hover{
+     animation: circle-anim 0.3s ease forwards;
+     transition: all 0.6s ease;
+     /* width: 50px; */
+ }
+
+ .icon-container{
+   display: inline-block;
+   margin: 1em;
+ }
